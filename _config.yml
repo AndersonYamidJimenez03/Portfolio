@@ -1,6 +1,12 @@
 title: Anderson Jimenez
-logo: /assets/img/logo.jpg
+logo: /assets/img/logo.png
 description: Data Analyst | Power BI | SQL
 show_downloads: false
 theme: jekyll-theme-minimal
 
+#collections:
+  #projects:
+    #output: true
+
+  #certifications:
+    #output: true
