@@ -32,6 +32,21 @@
 
 </p>
 ## Otras Herramientas
+
+<div style="columns: 3; -webkit-columns: 3; -moz-columns: 3;">
+<ul>
+  <li>ETL</li>
+  <li>Power platform</li>
+  <li>Jira</li>
+  <li>Azure</li>
+  <li>SharePoint</li>
+  <li>JavaScript</li>
+  <li>DevOps Azure</li>
+  <li>Sharegate</li>
+  <li>HTML/CSS</li>
+</ul>
+</div>
+
 <p align="center">
   <table>
     <tr>
@@ -52,16 +67,7 @@
   </table>
 </p>
 ## Projects
-<div style="columns: 3; -webkit-columns: 3; -moz-columns: 3;">
-<ul>
-  <li>Excel</li>
-  <li>SQL</li>
-  <li>Power BI</li>
-  <li>Python</li>
-  <li>Snowflake</li>
-  <li>Git</li>
-</ul>
-</div>
+
 
 ### Project 1
 
