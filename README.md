@@ -6,7 +6,7 @@
 <table>
   <td align="center">
       <img src="https://img.icons8.com/color/480/microsoft-excel-2019--v1.png" width="80"/><br>
-      <span style="margin-left:100px;"; style="font-weight:600;">Excel</span>
+      <span style="margin-left:200px;"; style="font-weight:600;">Excel</span>
   </td>
   <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="80"/><br>
