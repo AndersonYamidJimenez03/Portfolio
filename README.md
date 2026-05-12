@@ -17,7 +17,7 @@
       Power BI
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/python/3776AB" width="80"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/><br>
       Python
     </td>
     <td align="center">
