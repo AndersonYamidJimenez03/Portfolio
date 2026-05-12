@@ -1,10 +1,8 @@
 # About
 
-## Education
 
 
-
-## Principales herramientas de trabajo
+## Main technical skills
 <p align="center">
 
   <table>
@@ -31,7 +29,7 @@
   </table>
 
 </p>
-## Otras Herramientas
+## Other tools
 
 <div style="columns: 3; -webkit-columns: 3; -moz-columns: 3;">
 <ul>
@@ -47,25 +45,35 @@
 </ul>
 </div>
 
-<p align="center">
+## Education
+
+<p>
   <table>
     <tr>
-      <td>&#8226; ETL</td>
-      <td>&#8226; Power platform</td>
-      <td>&#8226; Jira</td>
+      <td>&#8226; Computer Programmer                   Sheridan College (2020)</td>
     </tr>
-      <tr>
-      <td>&#8226; Azure</td>
-      <td>&#8226; SharePoint</td>
-      <td>&#8226; JavaScript</td>
+    <tr>
+      <td>&#8226; Postgraduate Diploma in Statistics    Universidad Nacional de Colombia (2016)</td>
     </tr>
-      <tr>
-      <td>&#8226; DevOps Azure</td>
-      <td>&#8226; Sharegate</td>
-      <td>&#8226; HTML/CSS</td>
+    <tr>
+      <td>&#8226; Bachelor in Economics                 Universidad de Antioquia (2012)</td>
     </tr>
   </table>
 </p>
+
+
+## Certifications
+
+<table>
+    <tr>
+      <td>&#8226; Microsoft Certified: Power Platform Functional Consultant Associate (2025)</td>
+    </tr>
+    <tr>
+      <td>&#8226; Microsoft Certified: Power BI Data Analyst Associate (2023)</td>
+    </tr>
+  </table>
+</p>
+
 ## Projects
 
 
