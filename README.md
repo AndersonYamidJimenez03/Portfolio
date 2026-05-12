@@ -22,7 +22,7 @@
       Python
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" width="90"/><br>
+      <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="90"/><br>
       Snowflake
     </td>
   </tr>
