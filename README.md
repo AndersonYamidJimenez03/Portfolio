@@ -1,5 +1,9 @@
 # About
 
+## Education
+
+
+
 ## Principales herramientas de trabajo
 <p align="center">
 
@@ -48,6 +52,16 @@
   </table>
 </p>
 ## Projects
+<div style="columns: 3; -webkit-columns: 3; -moz-columns: 3;">
+<ul>
+  <li>Excel</li>
+  <li>SQL</li>
+  <li>Power BI</li>
+  <li>Python</li>
+  <li>Snowflake</li>
+  <li>Git</li>
+</ul>
+</div>
 
 ### Project 1
 
