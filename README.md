@@ -29,7 +29,7 @@
 </p>
 ## Otras Herramientas
 
-## Project
+## Projects
 
 ### Project 1
 
