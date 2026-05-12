@@ -6,7 +6,7 @@
 <table>
   <td align="center">
       <img src="https://img.icons8.com/color/480/microsoft-excel-2019--v1.png" width="80"/><br>
-      <span style="padding: 0 30px; font-weight:600;">Excel</span>
+      <span style="padding: 0 25px; font-weight:600;">Excel</span>
   </td>
   <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="80"/><br>
@@ -22,7 +22,7 @@
   </td>
   <td align="center">
       <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="80"/><br>
-      <span style="padding: 0 10px; font-weight:600;">Snowflake</span>
+      <span style="padding: 0 5px; font-weight:600;">Snowflake</span>
   </td>
 </table>
 
