@@ -22,7 +22,7 @@
       Python
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="60"/><br>
+      <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="70"/><br>
       Snowflake
     </td>
   </tr>
