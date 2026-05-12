@@ -31,19 +31,19 @@
 <p align="center">
   <table>
     <tr>
-      <td>Elemento A</td>
-      <td>Elemento B</td>
-      <td>Elemento C</td>
+      <td>ETL</td>
+      <td>Power platform</td>
+      <td>Jira</td>
     </tr>
       <tr>
-      <td>Elemento D</td>
-      <td>Elemento E</td>
-      <td>Elemento F</td>
+      <td>Azure</td>
+      <td>SharePoint</td>
+      <td>JavaScript</td>
     </tr>
       <tr>
-      <td>Elemento G</td>
-      <td>Elemento H</td>
-      <td>Elemento I</td>
+      <td>DevOps Azure</td>
+      <td>Sharegate</td>
+      <td>HTML/CSS</td>
     </tr>
   </table>
 </p>
