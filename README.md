@@ -2,25 +2,25 @@
 
 ## Principales herramientas de trabajo
 <p align="center">
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://img.icons8.com/color/480/microsoft-excel-2019--v1.png" width="80"/><br>
-    Excel
-  </div>
+  <span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://img.icons8.com/color/480/microsoft-excel-2019--v1.png" width="70"/><br>
+  Excel
+</span>
 
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="80"/><br>
-    SQL Server
-  </div>
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="70"/><br>
+  SQL Server
+</span>
 
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="80"/><br>
-    Power BI
-  </div>
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="70"/><br>
+  Power BI
+</span>
 
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80"/><br>
-    Python
-  </div>
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/><br>
+  Python
+</span>
 </p>
 ## Otras Herramientas
 
