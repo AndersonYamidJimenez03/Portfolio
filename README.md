@@ -32,17 +32,17 @@
 ## Other tools
 
 <div style="columns: 3; -webkit-columns: 3; -moz-columns: 3;">
-<ul>
-  <li>ETL</li>
-  <li>Power platform</li>
-  <li>Jira</li>
-  <li>Azure</li>
-  <li>SharePoint</li>
-  <li>JavaScript</li>
-  <li>DevOps Azure</li>
-  <li>Sharegate</li>
-  <li>HTML/CSS</li>
-</ul>
+  <ul>
+    <li>ETL</li>
+    <li>Power platform</li>
+    <li>Jira</li>
+    <li>Azure</li>
+    <li>SharePoint</li>
+    <li>JavaScript</li>
+    <li>DevOps Azure</li>
+    <li>Sharegate</li>
+    <li>HTML/CSS</li>
+  </ul>
 </div>
 
 ## Education
@@ -50,21 +50,21 @@
 <p>
   <table>
     <tr>
-      <td>&#8226; Computer Programmer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sheridan College (2020)</td>
+      <td>&#8226; Computer Programmer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sheridan College (2020)</td>
     </tr>
     <tr>
       <td>&#8226; Postgraduate Diploma Statistics &nbsp;  UNal de Colombia (2016)</td>
     </tr>
     <tr>
-      <td>&#8226; Bachelor in Economics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UdeA (2012)</td>
+      <td>&#8226; Bachelor in Economics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UdeA (2012)</td>
     </tr>
   </table>
 </p>
 
 
 ## Certifications
-
-<table>
+<p>
+  <table>
     <tr>
       <td>&#8226; Microsoft Certified: Power Platform Functional Consultant Associate (2025)</td>
     </tr>
