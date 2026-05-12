@@ -1,13 +1,8 @@
+<p align="center">
+  <img src="assets/img/banner.png" width="100%">
+</p>
+
 # About me
-<h1 align="center">Anderson Jimenez</h1>
-
-<p align="center">
-  Data Analyst | Power BI | SQL | Python
-</p>
-
-<p align="center">
-  <img src="images/banner.png" width="100%">
-</p>
 
 ## Project 1
 
