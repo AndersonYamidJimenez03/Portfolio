@@ -35,19 +35,19 @@
 <p align="center">
   <table>
     <tr>
-      <td>ETL</td>
-      <td>Power platform</td>
-      <td>Jira</td>
+      <td>&#8226; ETL</td>
+      <td>&#8226; Power platform</td>
+      <td>&#8226; Jira</td>
     </tr>
       <tr>
-      <td>Azure</td>
-      <td>SharePoint</td>
-      <td>JavaScript</td>
+      <td>&#8226; Azure</td>
+      <td>&#8226; SharePoint</td>
+      <td>&#8226; JavaScript</td>
     </tr>
       <tr>
-      <td>DevOps Azure</td>
-      <td>Sharegate</td>
-      <td>HTML/CSS</td>
+      <td>&#8226; DevOps Azure</td>
+      <td>&#8226; Sharegate</td>
+      <td>&#8226; HTML/CSS</td>
     </tr>
   </table>
 </p>
