@@ -4,9 +4,8 @@
 <p align="center">
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/480/microsoft-excel-2019--v1.png" width="80"/><br>
+  <td align="center">
+      <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="80"/><br>
       Excel
     </td>
     <td align="center">
@@ -14,18 +13,17 @@
       SQL
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="80"/><br>
+      <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="80"/><br>
       Power BI
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80"/><br>
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="80"/><br>
       Python
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" width="80"/><br>
+      <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="80"/><br>
       Snowflake
     </td>
-  </tr>
 </table>
 
 </p>
