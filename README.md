@@ -18,7 +18,7 @@
   </td>
   <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/><br>
-      <span style="font-weight:600;">Python</span>
+      &nbsp;<span style="font-weight:600;">Python</span>
   </td>
   <td align="center">
       <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="80"/><br>
