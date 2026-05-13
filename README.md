@@ -56,7 +56,7 @@
       <td>&#8226; Postgraduate Diploma Statistics &nbsp;  UNal de Colombia (2016)</td>
     </tr>
     <tr>
-      <td>&#8226; Bachelor in Economics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UdeA (2012)</td>
+      <td>&#8226; Bachelor in Economics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UdeA (2012)</td>
     </tr>
   </table>
 </p>
