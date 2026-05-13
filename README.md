@@ -50,7 +50,7 @@
 <p>
   <table>
     <tr>
-      <td>&#8226; Computer Programmer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sheridan College (2020)</td>
+      <td>&#8226; Computer Programmer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sheridan College (2020)</td>
     </tr>
     <tr>
       <td>&#8226; Postgraduate Dip. in Statistics &nbsp;&nbsp;UNal de Colombia (2016)</td>
