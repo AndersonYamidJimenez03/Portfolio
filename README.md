@@ -23,8 +23,8 @@
         <span style="padding: 0 10px; font-weight:600;">Python</span>
     </td>
     <td align="center">
-        <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="80"/><br>
-        <span style="padding: 0 5px; font-weight:600;">Snowflake</span>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_Automate_Logo.svg" width="70"/><br>
+        <span style="padding: 0 5px; font-weight:600;">Power Automate</span>
     </td>
   </table>
 
