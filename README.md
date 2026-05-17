@@ -23,7 +23,7 @@
         <span style="padding: 0 10px; font-weight:600;">Python</span>
     </td>
     <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg" width="80"><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg" width="70"><br>
         <span style="padding: 0 5px; font-weight:600;">Power Automate</span>
     </td>
   </table>
