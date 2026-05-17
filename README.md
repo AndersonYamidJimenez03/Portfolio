@@ -16,7 +16,7 @@
     </td>
     <td align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="75"/><br>
-        <span style="padding: 0 0px; font-weight:600;">Power BI</span>
+        <span style="padding: 0 0px; font-weight:600;">Power_BI</span>
     </td>
     <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/><br>
